@@ -1,0 +1,17 @@
+name: check_oom
+description: 'file:///README.md'
+url: 'https://github.com/l13t/icinga2_check_oom'
+tags: linux, OOM, dmesg
+vendor: Linux
+target: ''
+type: Plugin
+license: gplv3
+releases:
+  - name: 1.0
+    description: First Release
+    files:
+      - name: check_oom.py
+        url: 'https://github.com/l13t/icinga2_check_oom/archive/1.0.tar.gz'
+        description: First release
+        checksum: 0600cbd00f9a366943f63c0252eabf63
+
