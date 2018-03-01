@@ -13,6 +13,6 @@ optional arguments:
                         default
   -v, --verbose         Show verbose output from demsg about OOM killer events
 
-check_oom.py: v.0.2 by Dmytro Prokhorenkov
+check_oom.py: v.1.0 by Dmytro Prokhorenkov
 ```
 
