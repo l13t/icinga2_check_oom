@@ -3,7 +3,7 @@ description: 'file:///README.md'
 url: 'https://github.com/l13t/icinga2_check_oom'
 tags: linux, OOM, dmesg
 vendor: Linux
-target: ''
+target: Linux
 type: Plugin
 license: gplv3
 releases:
