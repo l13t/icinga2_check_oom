@@ -11,6 +11,8 @@ optional arguments:
   -m {warning,critical,default}, --mode {warning,critical,default}
                         Mode of results for this check: warning, critical,
                         default
+  -s, --short           If this option is specified, check ignores dmesg OOM
+                          problems older then 24 hours
   -v, --verbose         Show verbose output from demsg about OOM killer events
 
 check_oom.py: v.1.0 by Dmytro Prokhorenkov
