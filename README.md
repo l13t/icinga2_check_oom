@@ -15,6 +15,6 @@ optional arguments:
                           problems older then 24 hours
   -v, --verbose         Show verbose output from demsg about OOM killer events
 
-check_oom.py: v.1.0 by Dmytro Prokhorenkov
+check_oom.py: v.1.1 by Dmytro Prokhorenkov
 ```
 
